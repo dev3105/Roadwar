@@ -30,7 +30,7 @@ $(function() {
 
     var score_counter = 1;
 
-    var speed = 2;
+    var speed = 4;
     var line_speed = 5;
 
     var move_right = false;
