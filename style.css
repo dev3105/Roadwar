@@ -2,7 +2,7 @@ body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-color: #45d678;
+    background-color: #000000;
     font-family: sans-serif;
 }
 
@@ -118,17 +118,17 @@ body {
 #car_1{
     top: -100px;
     left: 60%;
-    background-color: #26c5ff;
+    background-color: blue;
 }
 #car_2{
     top: -200px;
     left: 40%;
-    background-color: #26c5ff;
+    background-color: green;
 }
 #car_3{
     top: -350px;
     left: 50%;
-    background-color: #26c5ff;
+    background-color: yellow;
 }
 #restart_div {
     position: absolute;
